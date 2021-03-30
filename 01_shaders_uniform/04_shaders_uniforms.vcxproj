@@ -27,6 +27,9 @@
     <None Include="fs_uniform.glsl" />
     <None Include="vs_uniform.glsl" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Readme.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{DCF67FD4-5E90-4369-BBB9-07DC3DED669C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
